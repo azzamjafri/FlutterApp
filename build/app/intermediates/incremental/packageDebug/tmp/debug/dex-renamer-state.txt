@@ -1,0 +1,4 @@
+#Sat Jul 27 01:14:58 IST 2019
+base.0=/home/azzam/IdeaProjects/first_flutter_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
